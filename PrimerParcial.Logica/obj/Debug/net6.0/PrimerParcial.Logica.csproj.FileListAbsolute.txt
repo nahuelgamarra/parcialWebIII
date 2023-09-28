@@ -1,0 +1,11 @@
+E:\Repos\PrimerParcial\PrimerParcial.Logica\bin\Debug\net6.0\PrimerParcial.Logica.deps.json
+E:\Repos\PrimerParcial\PrimerParcial.Logica\bin\Debug\net6.0\PrimerParcial.Logica.dll
+E:\Repos\PrimerParcial\PrimerParcial.Logica\bin\Debug\net6.0\PrimerParcial.Logica.pdb
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\PrimerParcial.Logica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\PrimerParcial.Logica.AssemblyInfoInputs.cache
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\PrimerParcial.Logica.AssemblyInfo.cs
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\PrimerParcial.Logica.csproj.CoreCompileInputs.cache
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\PrimerParcial.Logica.dll
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\refint\PrimerParcial.Logica.dll
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\PrimerParcial.Logica.pdb
+E:\Repos\PrimerParcial\PrimerParcial.Logica\obj\Debug\net6.0\ref\PrimerParcial.Logica.dll
